@@ -1,0 +1,19 @@
+{
+  "name": "eleventy-from-scratch",
+  "version": "1.0.0",
+  "description": "Learning Poop",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve"
+  },
+  "keywords": [
+    "eleventy",
+    "mikacaldera",
+    "funstuff"
+  ],
+  "author": "Mika Caldera",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
